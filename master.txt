@@ -1,1 +1,2 @@
 This is the file master.txt created in master branch - 1st file
+I am editing this master.txt file in private branch now - 2nd edited - private branch.
